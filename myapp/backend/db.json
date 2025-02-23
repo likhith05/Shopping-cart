@@ -1,0 +1,66 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "pocket watch",
+      "img": "watch/img1.jpg",
+      "price": "10000"
+    },
+    {
+      "id": 2,
+      "title": "Rider",
+      "img": "watch/img2.jpg",
+      "price": "20000"
+    },
+    {
+      "id": 3,
+      "title": "Apple",
+      "img": "watch/img3.jpg",
+      "price": "50000"
+    },
+    {
+      "id": 4,
+      "title": "clock",
+      "img": "watch/img6.jpg",
+      "price": "1000"
+    },
+    {
+      "id": 5,
+      "title": " Gold clock",
+      "img": "watch/img5.jpg",
+      "price": "100000"
+    },
+    {
+      "id": 6,
+      "title": " table clock",
+      "img": "watch/img9.jpg",
+      "price": "100000"
+    },
+    {
+      "id": 7,
+      "title": " table clock",
+      "img": "watch/img4.jpg",
+      "price": "100000"
+    },
+    {
+      "id": 6,
+      "title": " table clock",
+      "img": "watch/img6.jpg",
+      "price": "100000"
+    }
+  ],
+  "ADDtoCart": [
+    {
+      "id": 2,
+      "title": "Rider",
+      "img": "watch/img2.jpg",
+      "price": "20000"
+    },
+    {
+      "id": 6,
+      "title": " table clock",
+      "img": "watch/img9.jpg",
+      "price": "100000"
+    }
+  ]
+}
